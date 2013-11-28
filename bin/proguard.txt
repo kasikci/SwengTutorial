@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:16
+-keep class com.example.swengtutorial.MainActivity { <init>(...); }
+
+# onClick res/layout/activity_main.xml #generated:17
+-keepclassmembers class * { *** displayMessage(...); }
+
